@@ -1,7 +1,7 @@
 <h1 align="center">✨ 劉宓僾 ✨</h1>
 
 <p align="center">
-  <img src="C:\Users\User\Desktop\履歷\頭像.png"lines=Hi,+I+am+劉宓僾;CS+student+from+Taiwan;Always+learning+new+things!&center=true&width=500&height=50">
+  <img src="image/頭像.png"lines=Hi,+I+am+劉宓僾;CS+student+from+Taiwan;Always+learning+new+things!&center=true&width=500&height=50">
 </p>
 
 ---
