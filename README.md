@@ -30,8 +30,8 @@
 
 ## 📫 聯絡方式
 
-- 📧 Email: [xxx@gmail.com](mailto:xxx@gmail.com)
-- 🔗 LinkedIn: [點我](你的 LinkedIn 連結)
+- 📧 Email: [liumiai0704@gmail.com](mailto:xxx@gmail.com)
+- 🔗 LinkedIn: [點我](www.linkedin.com/in/miai-liu-b2ab15366)
 
 ---
 
@@ -53,8 +53,8 @@
 
 ## ⭐ 精選專案
 
-👉 記得到 GitHub 首頁點右上角 **Customize your pinned repositories**，把代表作 Pin 起來給面試官看！
+
 
 ---
 
-> 🐾 *Made with 💖 by 劉宓僾*
+> 🐾 *Made by 劉宓僾*
