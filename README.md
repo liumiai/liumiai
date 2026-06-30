@@ -1,60 +1,59 @@
-<h1 align="center">✨ 劉宓僾 ✨</h1>
+<div align="center">
 
-<p align="center">
-  <img src="image/頭像.png"lines=Hi,+I+am+劉宓僾;CS+student+from+Taiwan;Always+learning+new+things!&center=true&width=500&height=50">
-</p>
+# 🌌 Welcome to My Cosmic Forest 🌿
 
----
+<img src="assets/banner.svg" width="100%">
 
-## 📌 關於我
+<br>
 
-🎓 資訊工程系學生  
-💻 熱愛寫程式、動手做專案  
-🌟 希望用程式解決生活中的小麻煩
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=28&pause=3000&color=8DECB4&center=true&vCenter=true&width=700&lines=Dream+.+Create+.+Explore;Welcome+to+my+little+Universe+🌌;Every+star+holds+a+story+✨;Every+leaf+holds+a+dream+🌿" />
 
----
+<br><br>
 
-## 🛠️ 技能
+> *"The stars don't shine without darkness."*
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 📫 聯絡方式
+# 🌙 About My Universe
 
-- 📧 Email: [liumiai0704@gmail.com](mailto:xxx@gmail.com)
-- 🔗 LinkedIn: [點我](www.linkedin.com/in/miai-liu-b2ab15366)
+Welcome!
 
----
+This is my little forest among the stars.
 
-## ✨ 小彩蛋
+Here, every project begins as a tiny seed 🌱  
+and grows into something meaningful.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=liumiai&label=Profile%20views&color=0e75b6&style=flat" alt="liumiai" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liumiai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=liumiai&show_icons=true&locale=en&theme=tokyonight" alt="liumiai" />
-</p>
+I love learning, creating, exploring,
+and turning ideas into reality.
 
 ---
 
-## ⭐ 精選專案
+# 🌿 Current Journey
 
+🌱 Learning something new every day
 
+🌌 Exploring the unknown
+
+✨ Building creative projects
+
+🐈 Loving cats forever
+
+☕ Powered by coffee
 
 ---
 
-> 🐾 *Made by 劉宓僾*
+# 🌠 Night Sky
+
+Coming soon...
+
+---
+
+<div align="center">
+
+### 🌌 Thanks for visiting my Cosmic Forest 🌿
+
+⭐ Don't forget to look at the stars before you leave.
+
+</div>
